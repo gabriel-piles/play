@@ -1,0 +1,11 @@
+.expense-input-container{
+  position:absolute;
+  left:50%;
+  top:50%;
+  margin-left:-260px;
+  margin-top:-60px;
+}
+
+.expense-input{
+  width:300px;
+}
