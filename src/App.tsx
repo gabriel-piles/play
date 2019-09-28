@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import PlanList from './planList2/PlanList';
+import PlanList from './plan/Plan';
 import Menu from './menu/Menu';
 
 const App: React.FC = () => {

@@ -1,0 +1,12 @@
+.plan {
+  display: flex;
+  justify-content: center; 
+  padding-top: 100px;
+}
+
+.plan .title {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  font-size: 2em; 
+  text-align: center;
+}
