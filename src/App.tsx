@@ -1,16 +1,13 @@
 import React from 'react';
 import './App.css';
-import Input from './input/ExpenseInput';
-import 'semantic-ui-css/semantic.min.css'
-import MoneyUnit from './moneyUnit/MoneyUnit';
+import PlanList from './planList2/PlanList';
+import Menu from './menu/Menu';
 
 const App: React.FC = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        {/* <Input></Input> */}
-        <MoneyUnit></MoneyUnit>
-      </header>
+        <Menu></Menu>
+        <PlanList></PlanList>
     </div>
   );
 }
