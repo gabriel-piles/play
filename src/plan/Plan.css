@@ -1,7 +1,11 @@
-.plan {
-  display: flex;
-  justify-content: center; 
+.plan-container{
   padding-top: 100px;
+  width: 100%;
+}
+
+.plan {
+  width: 1000px;
+  margin: auto;
 }
 
 .plan .title {
@@ -9,4 +13,5 @@
   font-weight: 600;
   font-size: 2em; 
   text-align: center;
+  width: 100%;
 }
