@@ -1,3 +1,23 @@
 .item {
   width:100%;
+  display: flex;
+  margin-top: 10px;
+}
+
+.description {
+  width:66%;
+  text-align: right;
+}
+
+.quantity {
+  width: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  text-align: center;
+  font-family: 'bebas neue', sans-serif;
+}
+
+.graphic {
+  width:66%;
+  text-align: left;
 }
